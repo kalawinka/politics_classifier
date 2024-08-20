@@ -4,7 +4,7 @@
 
 By the end of this tutorial, you will be able to
 
-- detect scientific article from the political science domain using pretrained models and the transformers library
+- detect scientific articles from the political science domain using pretrained models and the transformers library
 
 ## Description
 This tutorial provides detailed information detecting texts from the political science domain using scientific abstracts. The usage of two models will be described in this tutorial. 
@@ -14,3 +14,5 @@ This tutorial provides detailed information detecting texts from the political s
 
 ## Prerequisites
 - Prior knowledge of Python programming is required for this tutorial
+- Prior knowledge of Jupyter/IPython Notebook usage is required for this tutorial
+- Prior knowledge of Google Colab usage is required for this tutorial
