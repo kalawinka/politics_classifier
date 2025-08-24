@@ -27,14 +27,15 @@ The methods described in this tutorial can be applied to various social science 
 
 The tutorial is designed to be completed in approximately 1 hour, depending on your familiarity with the prerequisites.
 
-## Technical Details of the Tutorial
+## Environment Setup
 
-This tutorial uses the following tools and libraries:
+ - In order to run this tutorial, you need at least Python >= 3.11.4  
+ - The following dependencies should also install the required packages
 
-- Python 3.8+
-- Transformers library by Hugging Face
-- Jupyter Notebook or Google Colab for running the code
-- Pretrained models for text classification
+```bash
+# Install packages for Jupiter Notebook environment
+!pip install -r binder/requirements.txt
+```
 
 ## Takeaways and Conclusion
 
