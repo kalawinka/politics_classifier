@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Politics Classifier"
+authors:
+  - family-names: "Nina"
+    given-names: "Smirnova"
+    email: "nina.smirnova@gesis.org"
+date-released: "2025-06-29"
+version: "1.0.0"
+repository-code: "https://github.com/kalawinka/politics_classifier/tree/main"
+license: "MIT"
+keywords:
+  - "politics"
+  - "classification"
+  - "machine learning"
+abstract: >
+  This project is a machine learning-based classifier for political content.
+  It aims to categorize text into various political categories using advanced algorithms.
