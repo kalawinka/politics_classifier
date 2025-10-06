@@ -34,7 +34,7 @@ The tutorial is designed to be completed in approximately 1 hour, depending on y
 
 ```bash
 # Install packages for Jupiter Notebook environment
-!pip install -r binder/requirements.txt
+!pip install -r requirements.txt
 ```
 
 ## Technical Details 
